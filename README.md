@@ -1,7 +1,7 @@
 About me
 ===
 
-## :closed_book:　 
+## :closed_book: Like
 - HTML/CSS/JavaScript
 - Vue.js/Nuxt.js
 
