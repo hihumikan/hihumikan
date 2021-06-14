@@ -1,12 +1,11 @@
 About me
 ===
 
-## 🎃（少しだけ)出来ること
-
+## :closed_book:　 
 - HTML/CSS/JavaScript
 - Vue.js/Nuxt.js
 
-:dart: 勉強中
+:dart: Studying
 ---
 - Infrastructure
 - NetWork
