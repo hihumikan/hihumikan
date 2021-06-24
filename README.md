@@ -2,14 +2,11 @@ About me
 ===
 
 ## :closed_book: Like
-- HTML/CSS/JavaScript
-- Vue.js/Nuxt.js
-
-:dart: Studying
----
+- HTML / CSS / JavaScript
+- Vue.js / Nuxt.js
 - Infrastructure
 - NetWork
-- Go/Rust
+- Go / Rust
 
 :mag: Contact
 ---
