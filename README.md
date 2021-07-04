@@ -2,6 +2,7 @@ About me
 ===
 
 - I'm just doing what I like.
+- Rust,NetWork,Vue.js,Golang
 
 :coffee: contact
 ---
