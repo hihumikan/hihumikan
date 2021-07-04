@@ -1,11 +1,9 @@
 About me
 ===
 
-:thought_balloon: 学习的领域
----
-- 做你当时感兴趣的事情
+- I'm just doing what I like.
 
-:coffee: 联系信息
+:coffee: contact
 ---
 ### Twitter
 - https://twitter.com/mikan_54951
