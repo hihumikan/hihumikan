@@ -1,8 +1,8 @@
 About me
 ===
 
-- I'm just doing what I like.
-- Rust,NetWork,Vue.js,Golang
+- 好きな事しかやりません
+
 
 :coffee: contact
 ---
