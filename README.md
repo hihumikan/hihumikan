@@ -8,8 +8,6 @@
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡JavaScript / Vue.js
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / Rust / Go / Java
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Co2333&layout=compact"/>
-
 ## 📮 How to reach me
 
 - Twitter [@mikan_54951](https://twitter.com/mikan_54951)
