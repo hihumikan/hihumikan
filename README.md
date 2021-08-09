@@ -2,16 +2,11 @@
 
 - 好きな事しかやりません
 
-
-## 💬 Worked language for me
-
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡JavaScript / Vue.js
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / Rust / Go / Java
-
 ## 📮 How to reach me
 
 - Twitter [@mikan_54951](https://twitter.com/mikan_54951)
 - Keybase.io https://keybase.io/hihumikan
+- Mail:a@qqey.net
 
 ## あなたはhogefuga人のお客様です
 
