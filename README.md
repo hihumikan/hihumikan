@@ -4,7 +4,7 @@
 - 最強になりたいです。
 
   
- ## 📩Contact
+ ## 📩　Contact
  
  - Mail:a@qqey.net
 
