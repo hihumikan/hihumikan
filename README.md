@@ -3,7 +3,7 @@
  
 	名前:　hihumikan / mikan_54951
 	所属:　SystemEngineeringTeam / Volare
-	興味:　フロント(React,Vue),バックエンド(Go,[- Rust,Ruby on Rails]),インフラ(ネットワーク,サーバ)
+	興味:　フロント(React,Vue),バックエンド(Go,Rust),インフラ(ネットワーク,サーバ)
 	趣味:　技術的な何か,FPS,Twitter監視
 	資格:　丙種危険物取扱者,第2種電気工事士,フォトマスター検定3級,基本情報技術者試験(多分合格)
 	特技:　寿司が握れる
