@@ -1,6 +1,14 @@
+```python
+class Hihumikan:
 
-## 📨Contact
-[@mikan_54951](https://twitter.com/mikan_54951) か [a@qqey.net](mailto:a@qqey.net) まで
+    def __init__(self):
+        self.name = "hihumikan"
+        self.email = "a@qqey.net"
+        self.language = "ja-jp"
+
+hihumikan = Hihumikan()
+del hihumikan
+```
 
 ![Visited By](https://count.getloli.com/get/@hihumikan?theme=rule34)
 
