@@ -9,6 +9,3 @@ class Hihumikan:
 hihumikan = Hihumikan()
 del hihumikan
 ```
-
-![Visited By](https://count.getloli.com/get/@hihumikan?theme=rule34)
-
