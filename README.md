@@ -1,12 +1,33 @@
-```python
-class Hihumikan:
+```rust
+struct Person {
+    name: &'static str,
+    email: &'static str,
+    language: &'static str,
+    jobs: &'static str,
+}
 
-    def __init__(self):
-        self.name = "hihumikan"
-        self.email = "a[at]qqey.net"
-        self.language = "ja-jp"
-        self.jobs = "jobless"
+impl Person {
+    const fn new(name: &'static str, email: &'static str, language: &'static str, jobs: &'static str) -> Self {
+        Self {
+            name,
+            email,
+            language,
+            jobs,
+        }
+    }
+}
 
-hihumikan = Hihumikan()
-del hihumikan
+struct PersonBuilder {}
+
+impl PersonBuilder {
+    const fn new() -> Self {
+        Self {}
+    }
+
+    const fn build(&self) -> Person {
+        Person::new("hihumikan", "a[at]qqey.net", "ja-jp", "jobless")
+    }
+}
+
+const HIHUMIKAN: Person = PersonBuilder::new().build();
 ```
